@@ -19,10 +19,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<br />
+
 <img align="left"  width="47%"  src="https://github-readme-stats.vercel.app/api?username=IsabelliOliveira&show_icons=true&theme=radical" />
 
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsabelliOliveira&layout=compact" />
-
 
 <img align="left" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
 
