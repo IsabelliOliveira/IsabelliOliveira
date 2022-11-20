@@ -1,54 +1,43 @@
-<h1 align="center">
+<h2 align="center">
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-Hello I'm Isabelli Oliveira  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-</h1>
-</h1>
+Olá eu sou a Isabelli Oliveira  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+</h2>
 
-<!--
-**IsabelliOliveira/IsabelliOliveira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ ![ Digitando SVG ](https://readme-typing-svg.herokuapp.com?color=%FFFF85ff&size=18&duration=6000¢er=true&vCenter=true&width=600&lines=Seja+Bem-+Vindo(a)+%3C3)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
-
+<div align="center">
 <img align="left"  width="47%"  src="https://github-readme-stats.vercel.app/api?username=IsabelliOliveira&show_icons=true&theme=radical" />
 
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsabelliOliveira&layout=compact" />
+</div>
 
-<img align="left" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
+<h3 align="center">🛠 Tecnologias</h3>
 
-<img align="left" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
+<div align="center" style="display: inline_block"><br>
+  <img align="center" alt="Belli-js" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Belli-react" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Belli-HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Belli-CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Belli-NODEjs" height="40" width="40"  src="https://cdn.iconscout.com/icon/free/png-256/node-js-1174925.png"> 
+  <img align="center" alt="Belli-figma" height="40" width="40"  src="https://cdn-icons-png.flaticon.com/512/5968/5968705.png"> 
+  <img align="center" alt="Belli-bootstrap" height="40" width="40"  src="https://camo.githubusercontent.com/2512b49c89512f2ff3718f7257f48ed5c46a4e331abbd890b6c5e8c0e458434f/68747470733a2f2f676574626f6f7473747261702e636f6d2f646f63732f352e322f6173736574732f6272616e642f626f6f7473747261702d6c6f676f2d736861646f772e706e67"> 
+  <img align="center" alt="Belli-sql" height="40" width="40"  src="https://miro.medium.com/max/1200/0*DpQbYfdi_b4Lr45Z."> 
+  <img align="center" alt="Belli-java" height="40" width="40"  src="https://cdn.icon-icons.com/icons2/2415/PNG/512/java_original_wordmark_logo_icon_146459.png"> 
 
-<img align="left" src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"/>
+</div>
 
-<img align="left" src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white" />
+##
 
-<img align="left" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
+<h3 align="center">🙋‍♂️ Connect with me </h3>
 
-<img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
+<div align="center" style="display: inline_block"><br>
+ <a href="https://www.linkedin.com/in/isabelli-oliveira-/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+ <a href="https://discord.gg/wagxzStdcR" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
+ <a href = "mailto:isabelli.camargo29@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+ <a href="https://www.linkedin.com/in/isabelli-oliveira-/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  </div>
+  
 
-
-##  <h2 align="center">🙋‍♂️ Connect with me </h2>
-
-
-
-
-<br />
-
-
-
-  <a  href="https://www.linkedin.com/in/isabelli-oliveira-/"><img align="left" alt="Linkedin" title="Youtube" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
- <a  href="https://www.instagram.com/isabellioliveira29/"><img align="left" alt="Youtube" title="Instagram" src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
  
 ![snake gif](https://github.com/IsabelliOliveira/IsabelliOliveira/blob/output/github-contribution-grid-snake.svg)
 
