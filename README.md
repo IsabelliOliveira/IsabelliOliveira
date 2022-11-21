@@ -6,9 +6,9 @@ Olá eu sou a Isabelli Oliveira  <img src="https://media.giphy.com/media/hvRJCLF
  ![ Digitando SVG ](https://readme-typing-svg.herokuapp.com?color=%FFFF85ff&size=18&duration=6000¢er=true&vCenter=true&width=600&lines=Seja+Bem-+Vindo(a)+%3C3)
 
 <div align="center">
-<img align="left"  width="47%"  src="https://github-readme-stats.vercel.app/api?username=IsabelliOliveira&show_icons=true&theme=radical" />
-
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsabelliOliveira&layout=compact" />
+  <a href="https://github.com/IsaRosseto">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=IsabelliOliveira&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsabelliOliveira&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
 <h3 align="center">🛠 Tecnologias</h3>
