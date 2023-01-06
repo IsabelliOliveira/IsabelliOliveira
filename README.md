@@ -28,7 +28,7 @@ Olá eu sou a Isabelli Oliveira  <img src="https://media.giphy.com/media/hvRJCLF
 
 ##
 
-<h3 align="center">🙋‍♂️ Connect with me </h3>
+<h3 align="center">🙋‍♂️ Connect with me</h3>
 
 <div align="center" style="display: inline_block"><br>
  <a href="https://www.linkedin.com/in/isabelli-oliveira-/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
