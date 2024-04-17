@@ -12,21 +12,8 @@ Olá eu sou a Isabelli Oliveira  <img src="https://media.giphy.com/media/hvRJCLF
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsabelliOliveira&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
-<h3 align="center">🛠 Tecnologias</h3>
 
-<div align="center" style="display: inline_block"><br>
-  <img align="center" alt="Belli-js" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Belli-react" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Belli-HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Belli-CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Belli-NODEjs" height="40" width="40"  src="https://cdn.iconscout.com/icon/free/png-256/node-js-1174925.png"> 
-  <img align="center" alt="Belli-figma" height="40" width="40"  src="https://cdn-icons-png.flaticon.com/512/5968/5968705.png"> 
-  <img align="center" alt="Belli-bootstrap" height="40" width="40"  src="https://camo.githubusercontent.com/2512b49c89512f2ff3718f7257f48ed5c46a4e331abbd890b6c5e8c0e458434f/68747470733a2f2f676574626f6f7473747261702e636f6d2f646f63732f352e322f6173736574732f6272616e642f626f6f7473747261702d6c6f676f2d736861646f772e706e67"> 
-  <img align="center" alt="Belli-sql" height="40" width="40"  src="https://miro.medium.com/max/1200/0*DpQbYfdi_b4Lr45Z."> 
-  <img align="center" alt="Belli-java" height="40" width="40"  src="https://cdn.icon-icons.com/icons2/2415/PNG/512/java_original_wordmark_logo_icon_146459.png"> 
-  <img align="center" alt="Belli-python" height="40" width="40"  src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Python_logo_01.svg/640px-Python_logo_01.svg.png"> 
 
-</div>
 
 ##
 
@@ -40,8 +27,6 @@ Olá eu sou a Isabelli Oliveira  <img src="https://media.giphy.com/media/hvRJCLF
   </div>
   
 
- 
-![snake gif](https://github.com/IsabelliOliveira/IsabelliOliveira/blob/output/github-contribution-grid-snake.svg)
 
 
 
